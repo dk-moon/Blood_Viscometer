@@ -1,0 +1,17 @@
+# Base image
+FROM python:3.9
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements.txt to the working directory
+COPY requirments.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirments.txt
+
+# Copy the Python script to the working directory
+COPY Ubiosis_method2_dnn.py .
+
+# Set the entrypoint for the script
+ENTRYPOINT ["python", "-m", "Ubiosis_method2_dnn"]
