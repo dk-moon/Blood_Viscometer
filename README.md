@@ -3,7 +3,7 @@ Development of Blood Viscometer
 
 # Data Description
 
-![image]([https://github.com/KR-ESWord/BloodViscometer/assets/59715960/78f26248-17e5-4b8e-920d-00ecb635876e](https://mblogthumb-phinf.pstatic.net/MjAyMDAzMDhfMjE0/MDAxNTgzNjMxNzYyMjU1.4vlsy3lcRkr1cmPFv1gl8u-d02F7PumEjRb3LUJgBLsg.xOZXdtm6NQ806LLUYQ3PPXmA-UXBFh6IGdEdfBqwy5Mg.JPEG.hyouncho2/hemovister2.jpg?type=w800))
+![image](https://file.notion.so/f/f/dcf0fb52-1450-4279-bd48-b86e803ce6b3/2231a19c-3921-4c82-bf64-2f964bf24c6f/Untitled.png?id=a5fe24b6-543f-4b3a-a09a-5119dd87c86c&table=block&spaceId=dcf0fb52-1450-4279-bd48-b86e803ce6b3&expirationTimestamp=1722506400000&signature=dSNVQvjkuFzV32J5kp3vqxHih06nLoyW5-h_7zKoF-U&downloadName=Untitled.png)
 
 혈액점도계로부터 혈액 샘플 또는 유사 물질로 측정하여 얻어진 시계열 센서 데이터와
 얻어진 시계열 센서 데이터를 유체역학 계산식을 통하여 계산되어진 9개의 결과값 및 그래프 데이터
